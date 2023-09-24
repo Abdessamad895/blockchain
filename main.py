@@ -1,4 +1,4 @@
-import Blockchain
+from Blockchain import Blockchain
 
 def main():
     # Créer une instance de la blockchain
